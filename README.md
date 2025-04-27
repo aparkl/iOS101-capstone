@@ -52,25 +52,25 @@ Scope: MVP is achievable in a short sprint: core CRUD + timer + basic dashboard.
 
 ### 2. Screen Archetypes
 
-- **Today View**
+- [X] **Today View**
   * View tasks due today
   * Start/stop stopwatch for each task
 
-- **Task List**
+- [X] **Task List**
   * View all tasks sorted by priority
   * Delete tasks via swipe
 
-- **Add Task**
+- [X] **Add Task**
   * Form with fields: name, due date, priority, category
   * Save to database
 
-- **Calendar View**
+- [X] **Calendar View**
   * Select date and view corresponding tasks
 
-- **Settings**
+- [X] **Settings**
   * Toggle dark/light mode
 
-- **Categories**
+- [X] **Categories**
   * View, add, delete categories
   * Navigate to tasks under a specific category
 
@@ -93,6 +93,8 @@ Scope: MVP is achievable in a short sprint: core CRUD + timer + basic dashboard.
 
 ![wireframe](https://github.com/user-attachments/assets/e4b66cd4-b57f-4dcf-bc14-a9a3ac48049f)
 
+## Demo
+![ios101_capstone](https://github.com/user-attachments/assets/5ee80f9f-4cca-4c7d-8acf-cde3d169014b)
 
 ## Schema 
 
